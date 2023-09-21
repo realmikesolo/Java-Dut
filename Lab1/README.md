@@ -1,5 +1,12 @@
 # Java Laboratory Work №1: Book and Library Management
 
+This repository contains a Java program designed for managing a basic library. Within this library system, books are stored, and each book has the following attributes:
+
+- Title
+- Author
+- ISBN Number
+- Year of Publication
+
 ## Steps:
 
 ### Implementation of the Book Class:
